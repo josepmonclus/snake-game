@@ -1,8 +1,8 @@
 # Snake Game
 
-## Snake game made with JavaScript
+**Snake game made with JavaScript**
 
-_Work in progress_
+_Work in progress..._
 
 ---
 
